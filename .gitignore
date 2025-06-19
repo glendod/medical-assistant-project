@@ -1,0 +1,10 @@
+# Folder Virtual Environment
+venv/
+.venv/
+
+# File environment yang berisi kunci rahasia
+.env
+
+# Folder cache Python
+__pycache__/
+*.pyc
